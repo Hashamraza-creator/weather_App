@@ -1,0 +1,40 @@
+
+{
+    "coord": {
+        "lon":71.4753,
+        "lat":30.1956
+    },
+    
+    "weather":[
+        {
+            "id":711,
+            "main":"Smoke",
+            "description":"smoke","icon":"50n"
+        }
+    ],
+    "base":"stations","main":{
+        "temp":29.94,
+        "feels_like":36.94,
+        "temp_min":29.94,
+        "temp_max":29.94,
+        "pressure":999,
+        "humidity":84,
+        "sea_level":999,
+        "grnd_level":986
+    },
+    "visibility":4000,"wind":
+    {"speed":3.09,
+        "deg":130},
+    "clouds":{"all":73},
+    "dt":1723422454,
+    "sys":{"type":1,
+        "id":7586,
+        "country":"PK",
+        "sunrise":1723423173,
+        "sunset":1723471132},
+    "timezone":18000,
+    "id":1169825,
+    "name":"Multan",
+    "cod":200
+}
+
